@@ -68,6 +68,7 @@ int main()
             break;
         
         default:
+        printf("\nYou Didn't type any of the choices above!\n");
             break;
         }
     } while (choice != 2);
