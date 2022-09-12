@@ -1,7 +1,7 @@
 # Guessing-Game
 Guessing Game Using C Language
 
-# Concepts Used:
+## Concepts Used:
 
 - Variables
 - if/else Statements
